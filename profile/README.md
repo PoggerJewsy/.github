@@ -1,3 +1,3 @@
-# An organization for various pentesting tools we wrote
+# An organization made for various pentesting tools we wrote
 
 ### for educational purposes only
